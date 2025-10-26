@@ -1,0 +1,26 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "base": 1,
+    "redis": 2,
+    "excalidraw": 3,
+    "ewqeqwqwe": 4,
+    "hi": 5,
+    "interview_project": 6,
+    "project": 7,
+    "middle_se": 8,
+    "interview": 9,
+    "roadmap": 10,
+    "javacore": 11
+  },
+  "_version": 3
+}

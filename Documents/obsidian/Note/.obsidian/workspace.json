@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "8b5e20600ed1da7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "10b0da690ee54ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3fa7b05ac5f3389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career/Roadmap_MiddleJava_MyBatis/Month1/Month 1  Deep Dive into Java Core.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Month 1  Deep Dive into Java Core"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc2e2bc35f52cb2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "226bec476bb653ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a9bfe0cdedeba16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "810fac4322b9c6af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cba377278d1e90e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de8e83f436314c1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e60dde43c364dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6705fcd65925fd8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Career/Roadmap_MiddleJava_MyBatis/Month1/Resource/JVM Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JVM Architecture"
+            }
+          },
+          {
+            "id": "20bd0f2cb2a70659",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Self-learning knowledge/System Design/Redis/Redis base knowledge.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Redis base knowledge"
+            }
+          },
+          {
+            "id": "062d50e9205e9d02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e3c5e06a9194d87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "a5ab6a8843103914",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "bd48beff4cd58d10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f1bcc0fce8ba6830",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "graph:Open graph view": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c3fa7b05ac5f3389",
+  "lastOpenFiles": [
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Career/Roadmap_MiddleJava_MyBatis/Month1/Resource/JVM Architecture.md",
+    "assets/JVM Architecture-1.png",
+    "assets",
+    "notepix-uploads/JVM Architecture-4.png",
+    "notepix-uploads/JVM Architecture-3.png",
+    "Career/Roadmap_MiddleJava_MyBatis/Month1/Resource/Mini project for month 1.md",
+    "notepix-uploads/JVM Architecture-2.png",
+    "Pasted image 20251021213940.png",
+    "notepix-uploads/JVM Architecture-1.png",
+    "notepix-uploads",
+    "Pasted image 20251026160121.png",
+    "2025-10-26.md",
+    "Check lists.md",
+    "Excalidraw/Drawing 2025-10-26 15.15.21.excalidraw.md",
+    "Excalidraw",
+    "Pasted image 20251021214231.png",
+    "Career/Roadmap_MiddleJava_MyBatis/Month1/Month 1  Deep Dive into Java Core.md",
+    "Self-learning knowledge/System Design/Redis/Redis base knowledge.md",
+    "Career/Roadmap_MiddleJava_MyBatis/Month1/Resource",
+    "Career/Roadmap_MiddleJava_MyBatis/Month1/Untitled.md",
+    "Career/Roadmap_MiddleJava_MyBatis/Month1",
+    "Career/Roadmap_MiddleJava_MyBatis/Month 2.md",
+    "Career/Roadmap_MiddleJava_MyBatis/Month 6.md",
+    "Career/Roadmap_MiddleJava_MyBatis/Month 5.md",
+    "Career/Roadmap_MiddleJava_MyBatis/Month 4.md",
+    "Untitled.md",
+    "Career/Roadmap_MiddleJava_MyBatis/Month 3.md",
+    "Template/Untitled.md",
+    "Template",
+    "Career/Roadmap_MiddleJava_MyBatis",
+    "ideas/MINI.md",
+    "ideas/Edge cases.md",
+    "ideas/Mini project.md",
+    "Happy cases and un happy cases for Adding default items to cart.md",
+    "Excalidraw/Drawing 2025-07-30 22.38.39.excalidraw.md",
+    "Untitled.canvas",
+    "2025-07-30.md",
+    "Welcome.md"
+  ]
+}

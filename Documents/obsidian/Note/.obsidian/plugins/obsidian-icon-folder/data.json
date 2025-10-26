@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAirplay",
+      "SiRedis",
+      "OcProject16",
+      "SiThealgorithms",
+      "FabJava"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Company knowledge": "📔",
+  "Self-learning knowledge": "🧑‍🦰",
+  "Self-learning knowledge/Algo": "SiThealgorithms",
+  "Self-learning knowledge/Networking": "LiWifi",
+  "Self-learning knowledge/Operating System": "🖥",
+  "Self-learning knowledge/Others": "LiBookHeart",
+  "Self-learning knowledge/Java": "FabJava",
+  "Company knowledge/Project": "OcProject16",
+  "Self-learning knowledge/System Design/Redis": "SiRedis"
+}

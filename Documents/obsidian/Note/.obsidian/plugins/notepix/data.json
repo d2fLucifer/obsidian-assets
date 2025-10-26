@@ -1,0 +1,19 @@
+{
+  "githubUser": "lucifer",
+  "repoName": "obsidian-assets",
+  "encryptedToken": "ge31xbJ7MrjmrB2UJe9Zkg==:3SQXEq5vhbWSE8QB:ySBuBVRK4h8z8EgcUr754M/NHYKVzslA67Zgdc2zH/4qttVVmqG9TaiaJVljJiTScp0sF3kVWu4H1vR06MPqSwmJZoyFUPxWuIDdR3VNwH/zX/xXK2Jmxs+WjBh6lC1+qmyEh5ZUO2ArIB2dkQ==",
+  "plainToken": "",
+  "branchName": "main",
+  "folderPath": "assets/",
+  "deleteLocal": true,
+  "useEncryption": true,
+  "repoVisibility": "public",
+  "uploadOnPaste": "always",
+  "localImageFolder": "assets",
+  "uploadImageFolder": "notepix-uploads",
+  "autoUpload": true,
+  "extraWatchedFolders": "",
+  "extraWatchedList": [],
+  "localOnlyFolders": "",
+  "localOnlyList": []
+}
