@@ -1,0 +1,59 @@
+# Dependencies
+node_modules
+.pnpm-store
+.npm
+.yarn
+
+# Next.js
+.next
+out
+build
+dist
+
+# TurboRepo
+.turbo
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Debug & Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# IDE & OS
+.DS_Store
+.vscode
+.idea
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# Java / Maven (Future Backend)
+target/
+*.class
+*.jar
+*.war
+*.ear
+mvnw
+mvnw.cmd
+.mvn/
+
+# Testing
+coverage/
+playwright-report/
+test-results/
+
+# Vercel
+.vercel
+
+
